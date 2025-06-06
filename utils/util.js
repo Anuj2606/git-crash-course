@@ -8,4 +8,5 @@ function newfunction(){
 
 function newfeature(){
     console.log("This is a new feature");
+    console.log("abcbscjbsj")
 }
